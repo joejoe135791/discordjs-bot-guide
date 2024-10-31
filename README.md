@@ -1,3 +1,7 @@
+# Joejoe note (archived)
+## I forgot this repo even existed, I'm learning python since discord.py is a lot easier for me. wish me luck lol
+
+
 ---
 description: 'The unofficial Discord.js beginner''s guide, written by idiots for beginners.'
 ---
